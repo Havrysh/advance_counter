@@ -11,7 +11,9 @@ Available functionality:
 
 Limitations:
   Counter can't go in negative value.
-  Counter can't go more than five value. Action buttons are disabled and tooltip is shown. Space bar doesn't work either.
+  Counter can't go more than five value. Action buttons are disabled and tooltip is shown when count === 5. Space bar doesn't work either when count === 5.
+
+Preview: https://havrysh.github.io/advance_counter/
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
