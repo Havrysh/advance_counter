@@ -1,7 +1,7 @@
 {
-  "name": "advance_counter",
+  "name": "advanced_counter",
   "homepage": "https://havrysh.github.io/advance_counter/",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
