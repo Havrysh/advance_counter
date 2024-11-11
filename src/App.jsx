@@ -1,10 +1,12 @@
-function App() {
+import Card from "./Card.jsx";
+import "./index.css";
 
+function App() {
   return (
-    <>
-      <p>Hello world</p>
-    </>
-  )
+    <main>
+      <Card />
+    </main>
+  );
 }
 
-export default App
+export default App;

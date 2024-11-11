@@ -1,0 +1,15 @@
+{
+  "endOfLine": "auto",
+  "printWidth": 100,
+  "plugins": [
+    "@trivago/prettier-plugin-sort-imports"
+  ],
+  "importOrder": [
+    "^react$",
+    "<THIRD_PARTY_MODULES>",
+    "^@src/(.*)$",
+    "^[./]"
+  ],
+  "importOrderAlphabetize": true,
+  "importOrderSeparation": true
+}
